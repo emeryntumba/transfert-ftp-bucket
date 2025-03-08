@@ -1,1 +1,1 @@
-a simple block code for transferring between a ftp server to a google cloud platform bucket (cloud storage)
+a simple block code for transferring data between a ftp server to a google cloud platform bucket (cloud storage)
